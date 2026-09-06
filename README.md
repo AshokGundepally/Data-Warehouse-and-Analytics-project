@@ -65,6 +65,9 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ```
 sql-data-warehouse-project/
 │
+| analytics 
+|   |---includes all analytics related scripts
+|
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
